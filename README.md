@@ -1,2 +1,3 @@
-# try-react-testing-library
-Try out react-testing-library as potential replacement for enzyme
+# try-react-rest-renderer
+
+Try out react-rest-renderer as potential replacement for enzyme
