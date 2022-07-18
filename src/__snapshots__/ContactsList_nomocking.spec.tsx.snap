@@ -1,0 +1,29 @@
+// Vitest Snapshot v1
+
+exports[`ContactsList_nomocking > renders 1`] = `
+<ul>
+  <li>
+    <div>
+      Tom
+    </div>
+  </li>
+  <li>
+    <div>
+      Alex
+    </div>
+  </li>
+  <li>
+    <div>
+      Viki
+    </div>
+  </li>
+</ul>
+`;
+
+exports[`ContactsList_nomocking > renders 2`] = `
+<ContactRow>
+  <div>
+    Tom
+  </div>
+</ContactRow>
+`;

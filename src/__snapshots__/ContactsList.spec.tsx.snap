@@ -1,0 +1,27 @@
+// Vitest Snapshot v1
+
+exports[`ContactsList > renders 1`] = `
+<ul>
+  <li>
+    <ContactRow->
+      Tom
+    </ContactRow->
+  </li>
+  <li>
+    <ContactRow->
+      Alex
+    </ContactRow->
+  </li>
+  <li>
+    <ContactRow->
+      Viki
+    </ContactRow->
+  </li>
+</ul>
+`;
+
+exports[`ContactsList > renders 2`] = `
+<ContactRow->
+  Tom
+</ContactRow->
+`;

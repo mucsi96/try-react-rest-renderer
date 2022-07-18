@@ -1,0 +1,25 @@
+{
+  "name": "try-react-rest-renderer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mucsi96/try-react-rest-renderer.git",
+  "author": "Igor Bari <mucsi96@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "@types/react-test-renderer": "^18.0.0",
+    "@vitejs/plugin-react": "^2.0.0",
+    "react-test-renderer": "^18.2.0",
+    "typescript": "^4.7.4",
+    "vite": "^3.0.0",
+    "vitest": "^0.18.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
